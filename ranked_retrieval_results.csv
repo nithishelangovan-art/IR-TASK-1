@@ -1,0 +1,31 @@
+Query,Rank,Document_ID,Title,Cosine_Similarity
+phishing email security,1,D1,Phishing Email Attacks,0.3203
+phishing email security,2,D9,Data Breaches and Security Awareness,0.1122
+phishing email security,3,D10,Multi-Factor Authentication for Online Accounts,0.1092
+phishing email security,4,D7,Cloud Security and Access Control,0.0042
+phishing email security,5,D6,Password Managers and Strong Authentication,0.0021
+phishing email security,6,D5,Encryption and Data Privacy,0.0021
+phishing email security,7,D8,Public Wi-Fi and Safe Browsing,0.0018
+phishing email security,8,D4,Network Firewalls and Intrusion Detection,0.0018
+phishing email security,9,D3,Ransomware Incident Response,0.0
+phishing email security,10,D2,Malware and Antivirus Protection,0.0
+network firewall protection,1,D4,Network Firewalls and Intrusion Detection,0.5067
+network firewall protection,2,D8,Public Wi-Fi and Safe Browsing,0.1456
+network firewall protection,3,D5,Encryption and Data Privacy,0.0693
+network firewall protection,4,D10,Multi-Factor Authentication for Online Accounts,0.0169
+network firewall protection,5,D2,Malware and Antivirus Protection,0.0159
+network firewall protection,6,D9,Data Breaches and Security Awareness,0.0
+network firewall protection,7,D6,Password Managers and Strong Authentication,0.0
+network firewall protection,8,D7,Cloud Security and Access Control,0.0
+network firewall protection,9,D3,Ransomware Incident Response,0.0
+network firewall protection,10,D1,Phishing Email Attacks,0.0
+password encryption privacy,1,D5,Encryption and Data Privacy,0.2873
+password encryption privacy,2,D6,Password Managers and Strong Authentication,0.1184
+password encryption privacy,3,D10,Multi-Factor Authentication for Online Accounts,0.0577
+password encryption privacy,4,D7,Cloud Security and Access Control,0.0511
+password encryption privacy,5,D3,Ransomware Incident Response,0.0484
+password encryption privacy,6,D9,Data Breaches and Security Awareness,0.0296
+password encryption privacy,7,D1,Phishing Email Attacks,0.0285
+password encryption privacy,8,D8,Public Wi-Fi and Safe Browsing,0.0
+password encryption privacy,9,D4,Network Firewalls and Intrusion Detection,0.0
+password encryption privacy,10,D2,Malware and Antivirus Protection,0.0
